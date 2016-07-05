@@ -1,5 +1,5 @@
 # catbee-link-spa
-Catbee service link wrapper for automatic SPA regirects
+Catbee service that automatic add to <a> tag event listener with history api navigation handler.
 
 ## Usage 
 
